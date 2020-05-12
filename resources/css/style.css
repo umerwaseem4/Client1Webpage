@@ -42,7 +42,7 @@ body {
     height: 30px;
     width: auto;
     float: left;
-    margin: 40px 0;
+    margin: 20px 0;
 }
 .row {
     max-width: 1140px;
@@ -203,7 +203,7 @@ input[type=submit]:active {
 
 header {
     background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/shanibg.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/406e1b69-2fa5-4c09-83d8-3066ba055a66.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
